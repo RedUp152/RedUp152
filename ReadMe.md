@@ -1,4 +1,4 @@
-<h1> 💫 About Me:</h1>
+<h2> 💫 About Me:</h2>
 💡 Programmer with 4 years of experience, I know 🐍Python, 💻C#, 🛠C++<br>⚙ I develop Telegram, Discord Bots, games on Unity, Arduino projects and other interesting projects<br>🌱 I am constantly developing and learning something new
 
 💻 Tech Stack:
